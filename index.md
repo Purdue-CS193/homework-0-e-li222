@@ -1,3 +1,23 @@
+#Emily Li's First CS193 Homework
+- the fun questions and lighthearted mood
+- the friendliness and willingness of the lecturers to help and answer questions
+- the magic words lol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
