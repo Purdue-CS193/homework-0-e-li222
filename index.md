@@ -1,6 +1,6 @@
-#Emily Li's First CS193 Homework
+# Emily Li's First CS193 Homework
 
-##Favorite things about CS193
+## Favorite things about CS193
 - the fun questions and lighthearted mood
 - the friendliness and willingness of the lecturers to help and answer questions
 - the magic words lol
